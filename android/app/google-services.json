@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "742656857788",
+    "project_id": "fitual-belazy",
+    "storage_bucket": "fitual-belazy.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742656857788:android:1342a9d0c7e4edb4d522b9",
+        "android_client_info": {
+          "package_name": "com.belazy.fitual"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwj3-RnwZDDnWMyaJSttW8yEVXGvqcZ4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
